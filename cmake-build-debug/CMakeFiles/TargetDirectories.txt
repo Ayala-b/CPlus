@@ -1,0 +1,3 @@
+C:/Users/WIN10/CLionProjects/CPlusProject/cmake-build-debug/CMakeFiles/CPlusProject.dir
+C:/Users/WIN10/CLionProjects/CPlusProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/WIN10/CLionProjects/CPlusProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
